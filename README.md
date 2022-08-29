@@ -1,12 +1,12 @@
 # EnvironmentalMonitoringSystem
 
-Creators:
-Monirul Islam, Dept of EEE, BUET
-Fariza Siddiqa, Dept of EEE, BUET
-A F M Mahfuzul Kabir, Dept of EEE, BUET
-Shuvro Chowdhury, Dept of EEE, BUET
+**Creators: <br />
+Monirul Islam, Dept of EEE, BUET <br />
+Fariza Siddiqa, Dept of EEE, BUET <br />
+A F M Mahfuzul Kabir, Dept of EEE, BUET <br />
+Shuvro Chowdhury, Dept of EEE, BUET <br />**
 
-This project is for academic evaluation for EEE 416 course in Bangladesh University of Engineering and Technology (BUET).
+**This project is for academic evaluation for EEE 416 course in Bangladesh University of Engineering and Technology (BUET).**
 
 Environmental monitoring system using Arduino UNO. The system can sense air quality and temperature and humidly of a location and upload data to thingspeak. 
 The system is charged automatically using solar power. The GSM network system uploads live data to server in real time.
