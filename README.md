@@ -2,7 +2,7 @@
 
 **Creators: <br />
 Monirul Islam, Dept of EEE, BUET <br />
-Fariza Siddiqa, Dept of EEE, BUET <br />
+Fariza Siddiqua, Dept of EEE, BUET <br />
 A F M Mahfuzul Kabir, Dept of EEE, BUET <br />
 Shuvro Chowdhury, Dept of EEE, BUET <br />**
 
