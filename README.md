@@ -1,4 +1,4 @@
-# EnvironmentalMonitoringSystem
+# Environmental Monitoring System
 
 **Creators: <br />
 Monirul Islam, Dept of EEE, BUET <br />
